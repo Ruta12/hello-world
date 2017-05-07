@@ -2,4 +2,4 @@
 Just another repository
 Hi everyone!
 
-Ruta here,I like webdesigning.
+Ruta here, I like webdesigning.
